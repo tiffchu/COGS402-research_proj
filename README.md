@@ -1,4 +1,4 @@
-# 402 self-directed research studies -- Topic Modelling using Latent Dirichlet Allocation (LDA) on ICU photovoice transcripts  
+# 402 self-directed research studies - Topic Modelling using Latent Dirichlet Allocation (LDA) on ICU photovoice transcripts  
 supervised by Dr. Howard at ubc
 
 ## Project Overview
